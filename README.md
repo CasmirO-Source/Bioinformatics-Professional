@@ -38,7 +38,7 @@ Multi_Omics_Pipeline/
 └── README.md # Project documentation
 
 ---
-▶️ Usage Instructions
+## Usage Instructions
 
 1. Clone the repository
 git clone https://github.com/CasmirO-Source/Bioinformatics.git
