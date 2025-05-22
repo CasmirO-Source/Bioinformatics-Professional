@@ -1,5 +1,7 @@
 #  Multiomics Data Simulation and Analysis Pipeline
 
+This was one of my favourite projects to complete. While I only completed it with transcriptomics and metabolic data, you could add more data sets and increase difficulty of the scripT. All of this while giving a very different perspective of what’s happening inside a cell or an organism.
+
 This repository contains a pipeline for simulating, processing, and visualising multiomics datasets (transcriptomics and metabolomics). It is designed as part of a bioinformatics learning portfolio, demonstrating core concepts in data simulation, preprocessing, integration, and visualisation.
 
 This project reflects my interest in biological data analysis and serves as preparation for postgraduate study in Bioinformatics.
@@ -28,10 +30,9 @@ It includes two main Python scripts:
 
 ##  Project Structure
 Multi_Omics_Pipeline/
-├── .ipynb_checkpoints
-├── .venv
 ├── data/ # Auto-generated CSV files (gene & metabolite data)
 ├── results/ # Output plot showing how samples group together based on the two most variable features selected from the combined data
+├── git.ignore # Stores my temporary files created by my device
 ├── analysis.py # Analyse and visualise the data
 ├── generated_data.py # Generate synthetic omics data
 ├── requirements.txt # Package dependencies
@@ -71,9 +72,4 @@ Data visualization using Python
 
 ## Academic Relevance
 
-This project was developed as a foundational exercise in multiomics data processing, which is a core skill in modern bioinformatics research. It reflects my interest in applying computational tools to real-world biological data and prepares me for Master's-level coursework and research in:
-
-1. Systems Biology
-2. Statistical Genomics
-3. Omics Integration
-4. Python for Bioinformatics
+This project was developed as a foundational exercise in multiomics data processing, which is a core skill in modern bioinformatics research. It reflects my interest in applying computational tools to real-world biological data and prepares me for my coursework and research in Bioinformatics.
