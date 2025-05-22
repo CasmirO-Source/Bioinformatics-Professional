@@ -1,5 +1,7 @@
 #  Multiomics Data Simulation and Analysis Pipeline
 
+This was one of my favourite projects to complete. Although I only completed it utilising transcriptomics and metabolic data, the pipeline could be extended to include more data types to increase its complexity and difficulty. It was quite challenging yet rewarding for me to create and will aid me greatly in my preparation for postgraduate studies
+
 This repository contains a pipeline for simulating, processing, and visualising multiomics datasets (transcriptomics and metabolomics). It is designed as part of a bioinformatics learning portfolio, demonstrating core concepts in data simulation, preprocessing, integration, and visualisation.
 
 This project reflects my interest in biological data analysis and serves as preparation for postgraduate study in Bioinformatics.
