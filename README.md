@@ -73,3 +73,5 @@ Data visualization using Python
 ## Academic Relevance
 
 This project was developed as a foundational exercise in multiomics data processing, which is a core skill in modern bioinformatics research. It reflects my interest in applying computational tools to real-world biological data and prepares me for my coursework and research in Bioinformatics.
+
+**Developed**: April 2025 | **Uploaded**: May 2025
